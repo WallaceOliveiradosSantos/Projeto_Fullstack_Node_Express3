@@ -76,4 +76,4 @@ Este projeto foi desenvolvido com o objetivo de:
 
 1. Clone o repositório:
 ```bash
-git clone <https://github.com/seu-usuario/seu-repositorio.git>
+git clone [Acessar o projeto](https://github.com/WallaceOliveiradosSantos/Projeto_Fullstack_Node_Express3)
