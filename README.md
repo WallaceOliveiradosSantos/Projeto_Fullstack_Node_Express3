@@ -16,7 +16,11 @@ Este projeto é uma aplicação web completa com **API CRUD** para gerenciamento
 - JavaScript (Vanilla)
 
 ---
+##📷 Demonstração
 
+<img width="1124" height="704" alt="Captura de tela 2026-05-06 104206" src="https://github.com/user-attachments/assets/09a74095-35dd-4d58-8439-d965b7f3f40c" />
+
+---
 ## 📌 Funcionalidades
 
 - 📋 Listagem de médicos e pacientes
@@ -77,3 +81,5 @@ Este projeto foi desenvolvido com o objetivo de:
 1. Clone o repositório:
 ```bash
 git clone <a href="https://github.com/WallaceOliveiradosSantos/Projeto_Fullstack_Node_Express3.git" target="_blank">Meu GitHub</a>
+
+
