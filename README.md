@@ -16,7 +16,7 @@ Este projeto é uma aplicação web completa com **API CRUD** para gerenciamento
 - JavaScript (Vanilla)
 
 ---
-## 📷 Demonstração
+## 📷 DEMONSTRAÇÃO
 
 <img width="1124" height="704" alt="Captura de tela 2026-05-06 104206" src="https://github.com/user-attachments/assets/09a74095-35dd-4d58-8439-d965b7f3f40c" />
 
